@@ -1,0 +1,15 @@
+0 1
+1 2
+2 3
+3 A
+4 Afternoon
+5 Again
+6 B
+7 Bye
+8 C
+9 Hello
+10 L
+11 Morning
+12 O
+13 Okay
+14 Smile
